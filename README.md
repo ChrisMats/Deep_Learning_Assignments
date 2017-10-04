@@ -13,3 +13,4 @@ EXTRA: Lab 1 (Feed forward networks: The delta rule and Back Propagation) from t
 
 
 ![Alt text](ImageSample.png?raw=true)
+![Alt text](SaplePicAnn.png?raw=true)
