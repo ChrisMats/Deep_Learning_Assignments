@@ -1,2 +1,2 @@
 # Deep_Learning_Assignments
-The Deep Learning Assignments from KTH course at T17
+The repo for Deep Learning assignments from KTH's course at T17
